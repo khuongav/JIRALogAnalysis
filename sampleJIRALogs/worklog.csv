@@ -1,0 +1,11 @@
+worklog_evaluation.id,worklog_evaluation.issueid,worklog_evaluation.author,worklog_evaluation.grouplevel,worklog_evaluation.rolelevel,worklog_evaluation.worklogbody,worklog_evaluation.created,worklog_evaluation.updateauthor,worklog_evaluation.updated,worklog_evaluation.startdate,worklog_evaluation.timeworked
+10000.0,10084.0,binhlc,null,NULL,,2011-04-06 07:45:38.187,binhlc,2011-04-06 07:45:38.187,2011-04-06 07:45:00.0,7200.0
+10010.0,10087.0,tienln,null,NULL,testing work log,2011-04-08 06:40:01.009,tienln,2011-04-08 06:40:01.009,2011-04-07 17:00:00.0,28800.0
+10020.0,10121.0,binhlc,null,NULL,,2011-04-26 04:51:32.924,binhlc,2011-04-26 04:51:32.924,2011-04-26 04:51:00.0,7200.0
+10320.0,10730.0,sonht,null,NULL,"add ""Back"" Button to Help View,and write the function to implement it.But have a issue-some cases when press ""Back"" button ,the View lost BackgoundImage.",2011-05-04 10:56:09.111,sonht,2011-05-04 10:56:09.111,2011-05-04 10:00:00.0,10800.0
+10420.0,10335.0,trilh,null,NULL,Installed,2011-05-05 04:02:14.409,trilh,2011-05-05 04:02:14.409,2011-05-05 04:01:00.0,7200.0
+10520.0,10730.0,sonht,null,NULL,"Fix issue when press ""Back"" button ,the view lost background.",2011-05-05 12:15:11.479,sonht,2011-05-05 12:15:11.479,2011-05-05 14:00:00.0,180.0
+10521.0,10531.0,truongnql,null,NULL,Update new button.,2011-05-06 03:21:40.911,truongnql,2011-05-06 03:21:40.911,2011-05-05 03:19:00.0,14400.0
+10522.0,10532.0,truongnql,null,NULL,Update new UI with instruction of Mr.Tung.,2011-05-06 03:25:20.517,truongnql,2011-05-06 03:25:43.034,2011-05-05 03:22:00.0,36000.0
+10620.0,10934.0,ductg,null,NULL,- Make thumbnail list scroll- Fix bug- Create scroll animation,2011-05-06 08:24:41.806,ductg,2011-05-06 08:24:41.806,2011-05-06 08:23:00.0,28800.0
+10621.0,11036.0,tunghv,null,NULL,,2011-05-06 09:20:20.459,tunghv,2011-05-06 09:20:33.809,2011-05-05 09:20:00.0,3600.0

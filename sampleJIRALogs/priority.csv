@@ -1,0 +1,7 @@
+priority.id,priority.sequence,priority.pname,priority.description,priority.iconurl,priority.status_color
+6,6.0,On hold,P0 - Ignore this issue for now,/images/icons/priority_onhold.png,#000000
+5,5.0,Very low,P1 - Process this issue if have nothing else to do,/images/icons/priorities/trivial.png,#003300
+4,4.0,Low,P2,/images/icons/priorities/minor.png,#006600
+2,2.0,High,P4,/images/icons/priorities/critical.png,#ff0000
+3,3.0,Normal,P3 - Default priority,/images/icons/priorities/major.png,#009900
+1,1.0,Urgent,"P5 - Process this issue, drop everything else",/images/icons/priorities/blocker.png,#cc0000
